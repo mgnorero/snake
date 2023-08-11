@@ -33,7 +33,7 @@ Whether you're looking to relive the excitement of playing Snake on old-school d
 1. Clone this repository to your local machine.
 2. Open folder in your development environment
 3. Run the `main.py` file.
-4. Enjoy the Snake experience and have a blast breaking bricks!
+4. Enjoy the Snake experience and have a blast!
 
 ## Contributing
 
