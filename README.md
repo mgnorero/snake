@@ -27,6 +27,12 @@ Whether you're looking to relive the excitement of playing Snake on old-school d
 4. Avoid collisions with walls and your own body.
 5. The game ends when the snake collides with a wall or itself.
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- **Python 3.9** or higher installed.
+- Python library:
+  - **turtle** - Used for creating the game's graphics. (pip install PythonTurtle)
 
 ## Get Started
 
